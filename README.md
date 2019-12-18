@@ -73,7 +73,7 @@ A curated list of awesome Android UI/UX libraries. Feel free to contrubute.
 
 ## License
 
-    Copyright 2017 Phu Quy
+    Copyright 2019 Phu Quy
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
