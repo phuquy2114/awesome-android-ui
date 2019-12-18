@@ -1,11 +1,6 @@
-List of Android UI Libraries [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/thanhtoan1196/awesome-android)
+List of Android UI Libraries [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 ======================
 A curated list of awesome Android UI/UX libraries. Feel free to contrubute.
-
-## Other Awesome List
-- [awesome-android](https://github.com/thanhtoan1196/awesome-android)
-- [awesome-android-libraries](https://github.com/thanhtoan1196/awesome-android-libraries)
-- [awesome-android-tips](https://github.com/thanhtoan1196/awesome-android-tips)
 
 ## Index
 - [Introduce](pages/introduce.md)
