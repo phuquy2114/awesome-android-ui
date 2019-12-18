@@ -65,14 +65,15 @@ A curated list of awesome Android UI/UX libraries. Feel free to contrubute.
 - [Shortcut](pages/shortcut.md)
 - [Other](pages/other.md)
 
+
 ## About Me
-- Github:  https://github.com/thanhtoan1196
-- Facebook: https://www.facebook.com/thanhtoan1196       
-- Email: thanhtoan1196@gmail.com
+- Github:  https://github.com/phuquy2114
+- Facebook: https://www.facebook.com/phuquy2114     
+- Email: phuquycntt@gmail.com
 
 ## License
 
-    Copyright 2017 Toan Tran
+    Copyright 2017 Phu Quy
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
